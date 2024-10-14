@@ -1,0 +1,5 @@
+Pasos para obtener resultados de la competencia 1:
+1.	En la carpeta competencia_01, ejecutar el script ClaseTernaria.py
+3.	Con la semilla 230519, ejecutar el script z422_lightgbm_binaria_BO, colocar el dataset competencia_01.csv y entrenar en el mes 202103. Seleccionar los hiperparametros que generan la mayor ganancia.
+4.	Ejecutar el script 421_lightgbm_final con semilla 230519 y el dataset competencia_01.csv, entrenar con el periodo 202104 y predecir el periodo 202406.
+5.	Subir el archivo con 10500 envíos a Kaggle.
