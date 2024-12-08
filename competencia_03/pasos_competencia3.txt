@@ -1,0 +1,5 @@
+Pasos para obtener resultados de la competencia 3:
+1.	De la carpeta competencia_03, usar el programa crear_claseternaria.R
+2. 	Usar el nuevo dataset competencia_03.csv
+3.	Configurar el script z909_run_orden227 para que ejecute el script adjunto 990_workflow_orden227_semi_comp3 (este ya esta configurado con la semilla 720637)
+4. 	De las ganancias obtenidas, considerar la referente corte de 10500.
